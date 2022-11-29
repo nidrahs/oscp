@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Before you begin](README.md)
+* [Credits](credits.md)
 
 ## Enumeration
 
