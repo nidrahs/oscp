@@ -9,7 +9,7 @@
 * [Banner grab](enumeration/banner-grab.md)
 * [Autorecon](enumeration/autorecon.md)
 * [Nmap](enumeration/nmap.md)
-* [FTP](enumeration/ftp.md)
+* [FTP (TCP 21) | TFTP (UDP 21)](enumeration/ftp-tcp-21-or-tftp-udp-21.md)
 
 ## Exploitation
 

@@ -10,3 +10,11 @@ description: Resources used for this cheatsheet
 
 {% embed url="https://www.hackingarticles.in/comprehensive-guide-to-autorecon/" %}
 
+{% embed url="https://liodeus.github.io/2020/09/18/OSCP-personal-cheatsheet.html#ftp---21" %}
+
+{% embed url="https://www.noobsec.net/oscp-cheatsheet/" %}
+
+{% embed url="https://fareedfauzi.gitbook.io/oscp-notes/services-enumeration/ftp" %}
+
+{% embed url="https://oscpnotes.infosecsanyam.in/My_OSCP_Preparation_Notes--Enumeration--FTP-21.html" %}
+
