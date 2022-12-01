@@ -23,6 +23,15 @@ ftp> get file//test download
 
 
 
+Download all files
+
+```
+ wget -r ftp://user:pass@$IP/
+ wget -r --user="user" --password="secret" ftp://$IP/
+```
+
+
+
 users enumerate
 
 [https://github.com/pentestmonkey/ftp-user-enum](https://github.com/pentestmonkey/ftp-user-enum)

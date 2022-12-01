@@ -16,7 +16,7 @@
     * [ ] site:github.com service.version
   * [ ] Find config issues
   * [ ] Run nmap port scan
-  * [ ] Run nmap --script=service-vuln-\*
+  * [ ] Run nmap --script
   * [ ] Searchsploit&#x20;
 * [ ] For auth service:
   * [ ] Enumerate users

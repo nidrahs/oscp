@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Before you begin](README.md)
-* [Credits](credits.md)
+* [Credits](README.md)
+* [Before you begin](<README (1).md>)
 
 ## Enumeration
 
@@ -9,28 +9,21 @@
 * [Banner grab](enumeration/banner-grab.md)
 * [Autorecon](enumeration/autorecon.md)
 * [Nmap](enumeration/nmap.md)
-* [FTP (TCP 21) | TFTP (UDP 21)](enumeration/ftp-tcp-21-or-tftp-udp-21.md)
 
-## Exploitation
+## Services
 
-* [📪 Making a post](exploitation/making-a-post.md)
-* [📎 Understanding Projects](exploitation/understanding-projects.md)
+* [FTP (TCP 21) | TFTP (UDP 21)](services/ftp-tcp-21-or-tftp-udp-21.md)
+* [SSH (TCP 22)](services/ssh-tcp-22.md)
+* [HTTP/HTTPS (TCP 80/443)](services/http-https-tcp-80-443.md)
 
 ## PrivEsc
 
-* [🛠 Getting set up](privesc/getting-set-up/README.md)
-  * [📝 Setting permissions](privesc/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](privesc/getting-set-up/inviting-members.md)
+* [LXD Group](privesc/lxd-group.md)
 
 ## Post Exploitation
 
 * [🎨 For Designers](post-exploitation/for-designers.md)
 * [🖥 For Developers](post-exploitation/for-developers.md)
-
-## Post Exploitation
-
-* [🎨 For Designers](post-exploitation-1/for-designers.md)
-* [🖥 For Developers](post-exploitation-1/for-developers.md)
 
 ## Active Directory
 
